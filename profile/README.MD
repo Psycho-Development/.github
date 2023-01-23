@@ -21,6 +21,6 @@ Psycho Development is an organization that provides open source code for the Fiv
 
 ## 👨‍💻 Meet the team
 <p align="center">
- <a href=https://github.com/Psycho-ViiPeRz><img width="420" src=https://github-readme-stats.vercel.app/api?username=GhzGarage&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
- <a href=https://github.com/LukeLyons1><img width="420" src=https://github-readme-stats.vercel.app/api?username=Z3rio&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
+ <a href=https://github.com/Psycho-ViiPeRz><img width="420" src=https://github-readme-stats.vercel.app/api?username=Psycho-ViiPeRz&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
+ <a href=https://github.com/LukeLyons1><img width="420" src=https://github-readme-stats.vercel.app/api?username=LukeLyons1&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
 </p>
