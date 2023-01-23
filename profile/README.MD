@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="500" src="https://media.discordapp.net/attachments/927546813081350164/1066910737571782746/logo-no-background.png">
+  <img width="250" height="250" src="https://media.discordapp.net/attachments/927546813081350164/1066910737571782746/logo-no-background.png">
 </p>
 
 ## 👋 About us
